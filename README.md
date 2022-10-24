@@ -20,3 +20,6 @@ npx nuxi init 00-basics
 ### assets 
 - /public
 - /assets 
+
+### config
+- ```nuxt.config.ts```
