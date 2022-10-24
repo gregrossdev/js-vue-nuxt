@@ -30,3 +30,5 @@ pages/
 
 ### config
 - ```nuxt.config.ts```
+
+### seo and meta 
