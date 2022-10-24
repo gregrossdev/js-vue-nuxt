@@ -37,3 +37,8 @@ pages/
 ### transitions 
 - layout 
 - page
+
+### server
+- /server
+- /server/api
+- /server/routes
