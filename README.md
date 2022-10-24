@@ -16,6 +16,13 @@ npx nuxi init 00-basics
 
 ### routing 
 - NuxtLink
+- dynamic and nesting routes
+```
+pages/
+--about.vue
+--posts/
+----| [id].vue
+```
 
 ### assets 
 - /public
