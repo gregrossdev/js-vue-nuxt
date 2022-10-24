@@ -1,5 +1,10 @@
-<script setup>
-
+<script setup lang="ts">
+  definePageMeta({
+    layout: 'orange',
+    layoutTransition: {
+      name: 'slide-in'
+    }
+  })
 </script>
 
 <template>
