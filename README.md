@@ -8,6 +8,15 @@ npx nuxi init 00-basics
 
 ### views 
 - ```app.vue```  main entry point
-- /pages
 - /layouts
+  - NuxtLayout
+- /pages
+  - NuxtPage 
 - /components 
+
+### routing 
+- NuxtLink
+
+### assets 
+- /public
+- /assets 
