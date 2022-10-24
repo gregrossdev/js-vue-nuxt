@@ -42,3 +42,6 @@ pages/
 - /server
 - /server/api
 - /server/routes
+
+### data fetching
+- useFetch
